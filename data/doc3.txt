@@ -1,0 +1,1 @@
+Information retrieval is the science of searching for information in a document. A document can contain text.
